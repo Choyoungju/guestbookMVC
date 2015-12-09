@@ -14,7 +14,7 @@
 <body>
 
 	<!-- 방명록 리스트 -->
-	<%-- list에서 하나씩 빼서 테이블를 채운다--%>
+
 
 	<form action="/guestbook2/gb?a=add" method="post">
 		<table border=1 width=500>
